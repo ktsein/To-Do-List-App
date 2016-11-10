@@ -7,4 +7,5 @@ To run the app,
 ⋅⋅* clone this repository (https://github.com/ktsein/To-Do-List-App.git)
 ⋅⋅* install http-server from npm if you haven't (npm install http-server -g)
 ⋅⋅* run http-server
-## Usage
+## Screenshot
+![Alt text](/relative/path/to/screenshot/app-screen.png?raw=true)
