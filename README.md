@@ -1,7 +1,7 @@
 
 # To Do List App
 An app that lets you take notes of To-Do items, mark items as you complete and delete as you wish.
-The app is built using JavaScript.
+The single page app is built using JavaScript.
 
 ## Installation
 To run the app,
