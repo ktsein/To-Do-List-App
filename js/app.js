@@ -50,6 +50,8 @@ var addTask = function() {
   //text should append to incomplete task list
   bindTaskEvents(listItem, taskCompleted);
   incompleteTaskHolder.appendChild(listItem);
+
+  taskInput.value = "";
 }
 
 //Edit an existing task
